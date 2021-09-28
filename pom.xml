@@ -1030,7 +1030,7 @@
                                             <pluginExecutionFilter>
                                                 <groupId>org.jacoco</groupId>
                                                 <artifactId>
-                                                    jacoco-maven-plugin
+                                                    jacoco-maven-plugin7
                                                 </artifactId>
                                                 <versionRange>
                                                     ${jacoco-maven-plugin.version}
